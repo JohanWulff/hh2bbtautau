@@ -40,3 +40,5 @@ data
 .python-version
 .__afs*
 delete.txt
+law_fs.cfg
+law_outputs.cfg
