@@ -44,3 +44,4 @@ law_fs.cfg
 law_outputs.cfg
 delete*.txt
 datacard*.txt
+*_diff.py
